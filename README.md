@@ -4,6 +4,6 @@ I pledge each Congressional vote to the majority of my constituents by real-time
 
 Notes:
 
-we simply want to reduce the language to be the clearest and most potent it can possibly be. happens to be >140 characters for those you you into that sort of thing...
+we simply want to reduce the language to be the clearest and most potent it can possibly be. happens to be >140 characters for those of you into that sort of thing...
 
 thx -kk
