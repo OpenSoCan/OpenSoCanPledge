@@ -1,4 +1,3 @@
-OpenSoCanPledge
-===============
+pledge.md is the pledge
 
-Open Source Candidate Pledge
+we simply want to reduce the language to be the clearest and most potent it can possibly be. happens to be >140 characters for those you you into that sort of thing...
